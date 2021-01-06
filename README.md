@@ -20,3 +20,8 @@ uvicorn main:app --reload
 ## Documentation
 
 Once the server is running, access the Recommender System API Documentation at http://localhost:8000/docs
+
+## References
+
+1. [Asset Core Metadata Schema](https://github.com/OpertusMundi/catalogue-service/blob/master/catalogueapi/resources/core.json)
+2. [Basic Collaborative Filter](https://medium.com/@lope.ai/recommendation-systems-from-scratch-in-python-pytholabs-6946491e76c2)
