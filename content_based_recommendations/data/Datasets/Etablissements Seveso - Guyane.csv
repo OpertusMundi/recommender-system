@@ -1,0 +1,29 @@
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/EstablishmentsInvolvingDangerousSubstances-dir-2012-18
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Données ouvertes@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#distribution,_:t3140
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t3129
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/conformsTo,_:t3134
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/theme/pf
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/provenance,_:t3133
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4326
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/title,Etablissements Seveso - Guyane@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Seveso@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Géorisques@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/FRE
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/identifier,https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4^^http://www.w3.org/2001/XMLSchema#anyURI
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#spatialResolutionInMeters,50^^http://www.w3.org/2001/XMLSchema#decimal
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/description,La directive a pour objet la prévention des accidents majeurs impliquant des substances dangereuses et la limitation de leurs conséquences pour l'homme et l'environnement. Le jeu de données géographiques SEVESO permet de localiser l'ensemble des établissements SEVESO en France. Une distinction est faite entre les établissements Seveso Seuil haut et les établissements Seveso Seuil bas.@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/prov#qualifiedAttribution,_:t3148
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/prov#wasUsedBy,_:t3135
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,ICPE@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#distribution,_:t3144
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#landingPage,https://www.georisques.gouv.fr/
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Installations classées@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Guyane@fr
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/spatial,_:t3132
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2012-18
+https://data.georisques.fr/id/dataset/dbae92c9-93ce-41fe-9a66-8c4a0ce3a2d4,http://www.w3.org/ns/dcat#keyword,Rapportage@fr

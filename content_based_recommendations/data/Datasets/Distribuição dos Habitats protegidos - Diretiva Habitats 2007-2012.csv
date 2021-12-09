@@ -1,0 +1,39 @@
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/POR
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#distribution,_:t4833
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/accrualPeriodicity,http://publications.europa.eu/resource/authority/frequency/UNKNOWN
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/spatial,_:t4811
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/spatial,_:t4810
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#distribution,_:t4823
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/3763
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/3035
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#distribution,_:t4828
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#contactPoint,_:t4838
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/provenance,_:t4812
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/identifier,http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36^^http://www.w3.org/2001/XMLSchema#anyURI
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#distribution,_:t4818
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#landingPage,http://si.icnf.pt/shp/especies_diretiva_habitats_07_12
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#theme,_:t4806
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,Rede natura 2000@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/description,Distribuição dos habitats protegidos pela Diretiva Habitats para Portugal Continental. Informação obtida através dos trabalhos desenvolvidos no âmbito do Relatório Nacional de Implementação da Diretiva Habitats (2007-2012).@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,infoMapAccessService@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#landingPage,http://si.icnf.pt/kml/especies_diretiva_habitats_07_12
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,Diretiva Habitats@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,infoFeatureAccessService@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/modified,2018-05-08^^http://www.w3.org/2001/XMLSchema#date
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#theme,_:t4804
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://purl.org/dc/terms/title,Distribuição dos Habitats protegidos - Diretiva Habitats 2007-2012@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,iGEO@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,"ICNF, I.P.@pt"
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,Cartografia Oficial@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,ICNF@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#theme,_:t4802
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,"Instituto da Conservação da Natureza e das Florestas, I.P.@pt"
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/prov#wasUsedBy,_:t4813
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,Habitats naturais e semi-naturais@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,INSPIRECORE@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#theme,_:t4808
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://www.w3.org/ns/dcat#keyword,Sítios de Importância Comunitária (SIC)@pt
+http://id.igeo.pt/cdg/b90874cd-3d50-423c-b8d2-1264ea87ef36,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t4799

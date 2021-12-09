@@ -1,0 +1,37 @@
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#keyword,PS@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/issued,2020-11-20^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#distribution,_:t2589
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#theme,_:t2537
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/conformsTo,_:t2541
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#keyword,INSPIRE@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/25832
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2564
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/provenance,_:t2540
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/modified,2020-12-07^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#theme,_:t2535
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#keyword,HVD@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2579
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#keyword,mim2geodatainfo@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2554
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/spatial,_:t2539
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#theme,_:t2533
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/identifier,https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b^^http://www.w3.org/2001/XMLSchema#anyURI
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2569
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#contactPoint,_:t2595
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2544
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/title,DK INSPIRE PS Natura 2000 Habitat Areas@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#keyword,LOPD@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/description,DK INSPIRE PS Natura 2000 Habitat Areas@en
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/dcat#distribution,_:t2592
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2584
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2559
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/ENG
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/conformsTo,_:t2543
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t2530
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://xmlns.com/foaf/0.1/page,https://haleconnect.com/services/bsp/org.223.7076850c-232f-4611-a829-941dbd2b688d/service/atom/id_predefined_dataset
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2574
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://purl.org/dc/terms/conformsTo,_:t2542
+https://envi.data.gov.dk/a4e02855-614d-4321-b416-973ce52b423b,http://www.w3.org/ns/prov#wasUsedBy,_:t2549

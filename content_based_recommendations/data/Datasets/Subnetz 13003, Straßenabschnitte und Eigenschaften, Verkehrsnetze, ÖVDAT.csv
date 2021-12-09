@@ -1,0 +1,30 @@
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1921
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1946
+_:t1896,http://www.w3.org/ns/dcat#contactPoint,_:t1964
+_:t1896,http://purl.org/dc/terms/identifier,haleconnect.com/02c4add9-ec2e-4cac-aca3-12f072713ed6
+_:t1896,http://purl.org/dc/terms/spatial,_:t1906
+_:t1896,http://www.w3.org/ns/dcat#theme,_:t1900
+_:t1896,http://purl.org/dc/terms/modified,2021-02-16^^http://www.w3.org/2001/XMLSchema#date
+_:t1896,http://purl.org/dc/terms/title,"Subnetz 13003, Straßenabschnitte und Eigenschaften, Verkehrsnetze, ÖVDAT@en"
+_:t1896,http://purl.org/dc/terms/description,"Subnetz 13003, Straßenabschnitte und Eigenschaften, Verkehrsnetze, ÖVDAT@en"
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1911
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1936
+_:t1896,http://www.w3.org/ns/dcat#distribution,_:t1960
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1926
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1951
+_:t1896,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4258
+_:t1896,http://purl.org/dc/terms/conformsTo,_:t1910
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1916
+_:t1896,http://purl.org/dc/terms/conformsTo,_:t1909
+_:t1896,http://purl.org/dc/terms/issued,2020-04-28^^http://www.w3.org/2001/XMLSchema#date
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1941
+_:t1896,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+_:t1896,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t1897
+_:t1896,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/ENG
+_:t1896,http://purl.org/dc/terms/conformsTo,_:t1908
+_:t1896,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+_:t1896,http://www.w3.org/ns/dcat#theme,_:t1904
+_:t1896,http://www.w3.org/ns/dcat#distribution,_:t1956
+_:t1896,http://www.w3.org/ns/dcat#theme,_:t1902
+_:t1896,http://www.w3.org/ns/prov#wasUsedBy,_:t1931
+_:t1896,http://purl.org/dc/terms/provenance,_:t1907

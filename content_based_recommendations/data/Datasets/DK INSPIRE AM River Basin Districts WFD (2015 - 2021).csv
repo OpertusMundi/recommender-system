@@ -1,0 +1,30 @@
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/3044
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/conformsTo,_:t2622
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t2610
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/prov#wasUsedBy,_:t2638
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/prov#wasUsedBy,_:t2628
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/conformsTo,_:t2621
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#theme,_:t2617
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#keyword,mim2geodatainfo@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#keyword,HVD@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/issued,2019-05-23^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#contactPoint,_:t2649
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/modified,2020-12-03^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/prov#wasUsedBy,_:t2623
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://xmlns.com/foaf/0.1/page,https://haleconnect.com/services/bsp/org.223.f8a77f5a-1260-41be-892a-7d57c2983f18/service/atom/id_predefined_dataset
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#distribution,_:t2646
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#keyword,INSPIRE@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/prov#wasUsedBy,_:t2633
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/ENG
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/title,DK INSPIRE AM River Basin Districts WFD (2015 - 2021)@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/description,DK INSPIRE AM River Basin Districts WFD (2015 - 2021)@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/spatial,_:t2619
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/identifier,https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572^^http://www.w3.org/2001/XMLSchema#anyURI
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#theme,_:t2613
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/provenance,_:t2620
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#distribution,_:t2643
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#keyword,LOPD@en
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://envi.data.gov.dk/6b42ee2a-180d-4ff0-bda3-abce510af572,http://www.w3.org/ns/dcat#theme,_:t2615

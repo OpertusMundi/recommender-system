@@ -1,0 +1,29 @@
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/title,Etablissements Seveso - Réunion@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/description,La directive a pour objet la prévention des accidents majeurs impliquant des substances dangereuses et la limitation de leurs conséquences pour l'homme et l'environnement. Le jeu de données géographiques SEVESO permet de localiser l'ensemble des établissements SEVESO en France. Une distinction est faite entre les établissements Seveso Seuil haut et les établissements Seveso Seuil bas.@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t3156
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#distribution,_:t3171
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,Rapportage@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2012-18
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/spatial,_:t3159
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/EstablishmentsInvolvingDangerousSubstances-dir-2012-18
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,Données ouvertes@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/theme/pf
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,La Réunion@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4326
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,Seveso@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/FRE
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#distribution,_:t3167
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,Géorisques@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/provenance,_:t3160
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#spatialResolutionInMeters,50^^http://www.w3.org/2001/XMLSchema#decimal
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,ICPE@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/conformsTo,_:t3161
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#landingPage,https://www.georisques.gouv.fr/
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/prov#wasUsedBy,_:t3162
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/dcat#keyword,Installations classées@fr
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/ns/prov#qualifiedAttribution,_:t3175
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a,http://purl.org/dc/terms/identifier,https://data.georisques.fr/id/dataset/14cf5199-0b70-4642-95ad-145d3f709d1a^^http://www.w3.org/2001/XMLSchema#anyURI

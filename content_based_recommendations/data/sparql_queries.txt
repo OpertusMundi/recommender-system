@@ -1,0 +1,34 @@
+Step 1: Run below query to get IRIs for all datasets
+"""
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dcat: <http://www.w3.org/ns/dcat#>
+    SELECT ?subject ?predicate ?object
+    FROM <http://tobie.market.eu/kg/>
+    WHERE {
+    ?subject rdf:type dcat:Dataset .
+    } LIMIT 100
+
+"""
+    output: data/datasets47.csv  (total of 47 metadata from INSPPIRE were used to create the knowledge graph, hence total 47 entries)
+
+Step 2: The dataset iri can be looked up in the EmbeddingModels/results/resultsRotatE/entities_ids.txt and ids can be found and updated in the data/datasets47.csv
+
+Step 3: To consolidate the entire information respective to a dataset, run below query. Here the subject is the IRI of the dataset extracted in Step 1.
+"""
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dcat: <http://www.w3.org/ns/dcat#>
+    SELECT ?predicate ?object
+    FROM <http://tobie.market.eu/kg/>
+    WHERE {
+      <http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B> ?predicate ?object .
+    } LIMIT 100
+
+"""
+    output: data/Datasets/{dataset_title}.csv
+
+
+Step 4: To get recommendations on content based collaborative filtering, where each dataset is compared with others on the basis of its contents using cosine similarity:
+    use recommendation.py --> similarity()
+
