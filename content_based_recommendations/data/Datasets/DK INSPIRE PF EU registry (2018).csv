@@ -1,0 +1,35 @@
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t2463
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2472
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/description,DK INSPIRE PF EU registry (2018)@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2480
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/title,DK INSPIRE PF EU registry (2018)@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#keyword,INSPIRE@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2470
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://xmlns.com/foaf/0.1/page,https://haleconnect.com/services/bsp/org.223.0e4d7431-f8c0-44f5-bcb8-5e85eef15325/service/atom/id_predefined_dataset
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2478
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/prov#wasUsedBy,_:t2498
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/issued,2020-05-04^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#distribution,_:t2511
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/modified,2020-12-03^^http://www.w3.org/2001/XMLSchema#date
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/prov#wasUsedBy,_:t2503
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/prov#wasUsedBy,_:t2488
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#keyword,HVD@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2468
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#keyword,mim2geodatainfo@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2476
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2484
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/prov#wasUsedBy,_:t2493
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#keyword,LOPD@en
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2466
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2474
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#theme,_:t2482
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#distribution,_:t2508
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/spatial,_:t2486
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/provenance,_:t2487
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4258
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://www.w3.org/ns/dcat#contactPoint,_:t2514
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/ENG
+https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37,http://purl.org/dc/terms/identifier,https://envi.data.gov.dk/5a1dc94d-ce2e-4748-886f-856eac807b37^^http://www.w3.org/2001/XMLSchema#anyURI

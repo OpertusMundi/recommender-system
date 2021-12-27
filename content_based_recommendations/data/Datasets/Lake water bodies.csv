@@ -1,0 +1,32 @@
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/prov#qualifiedAttribution,_:t4743
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/issued,2019-12-10^^http://www.w3.org/2001/XMLSchema#date
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#keyword,wody śródlądowe@pl
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/prov#wasUsedBy,_:t4723
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#keyword,water management@locale-eng
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/provenance,_:t4721
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/prov#wasUsedBy,_:t4728
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/temporal,_:t4720
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/identifier,http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016^^http://www.w3.org/2001/XMLSchema#anyURI
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/conformsTo,_:t4722
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/prov#wasUsedBy,_:t4737
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4258
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/theme/am
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#keyword,Inspire@pl
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/title,Jednolite części wód powierzchniowych jeziornych@pl
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t4716
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/POL
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/description,Jednolite części wód powierzchniowych jeziornych wyznaczone na potrzeby sporządzenia planów gospodarowania wodami na obszarach dorzeczy.@pl
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/conformsTo,http://data.europa.eu/eli/reg/2010/1089
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/title,Lake water bodies@locale-eng
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/spatial,_:t4719
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/accrualPeriodicity,http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequency/asNeeded
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/Lakes-dir-2000-60
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/prov#wasUsedBy,_:t4732
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#distribution,_:t4741
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#keyword,inland waters@locale-eng
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://www.w3.org/ns/dcat#keyword,gospodarka wodna@pl
+http://iip.wody.gov.pl/id/dataset/PL.ZIPGW.6440/LWB_2016,http://purl.org/dc/terms/description,Lake water bodies established for river basin management plans.@locale-eng

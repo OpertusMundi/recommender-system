@@ -1,0 +1,33 @@
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/title,Prevenção de Acidentes Graves - Estabelecimentos abrangidos: CGD INSPIRE@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,APA@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,PAG@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/spatial,_:t4937
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/identifier,http://id.igeo.pt/cdg/http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B^^http://www.w3.org/2001/XMLSchema#anyURI
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,Portugal Continental@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/POR
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/spatial,_:t4936
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#distribution,_:t4944
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,INSPIRECORE@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,Prevenção de Acidentes Graves@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#theme,_:t4932
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/prov#wasUsedBy,_:t4939
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/modified,2017-01-03^^http://www.w3.org/2001/XMLSchema#date
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,Downloadable Data@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,Cartografia Oficial@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/description,Estabelecimentos abrangidos (DL 150/2015): Localização pontual; Estabelecimento; Nível de Perigosidade (Superior/Inferior)@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,DL 150/2015@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/identifier,geoapagreen.geoapagreendata.vw_d308_apa_pag_pub
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#distribution,_:t4953
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#theme,_:t4934
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/provenance,_:t4938
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,infoMapAccessService@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/4258
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#distribution,_:t4948
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t4929
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#contactPoint,_:t4958
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://www.w3.org/ns/dcat#keyword,infoFeatureAccessService@pt
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/3763
+http://id.igeo.pt/cdg/8CCD0E95-AE61-4A00-B64C-14A98B72537B,http://purl.org/dc/terms/accrualPeriodicity,http://inspire.ec.europa.eu/metadata-codelist/MaintenanceFrequency/asNeeded

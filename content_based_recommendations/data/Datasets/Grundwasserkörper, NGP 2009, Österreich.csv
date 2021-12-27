@@ -1,0 +1,32 @@
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/spatial,_:t2281
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,_:t2275
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#distribution,_:t2294
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/conformsTo,http://www.opengis.net/def/crs/EPSG/0/3035
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#keyword,WRRL@de
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/dcat#Dataset
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://xmlns.com/foaf/0.1/page,https://geometadatensuche.inspire.gv.at/metadatensuche/srv/atom/describe/service?uuid=4b3d8a60-20a2-4cc8-a343-2ac31bf6ce50
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#keyword,WFD@de
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,_:t2273
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/prov#wasUsedBy,_:t2284
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/issued,2009-12-22^^http://www.w3.org/2001/XMLSchema#date
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#distribution,_:t2291
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/identifier,https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9^^http://www.w3.org/2001/XMLSchema#anyURI
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/ns/prov#Entity
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#keyword,Wasserrahmenrichtlinie@de
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#landingPage,http://www.umweltbundesamt.at/umweltsituation/wasser/wasser_daten/grundwasserkoerper/
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/description,Oberflächennahe Grundwasserkörpern und Tiefengrundwasserkörper gemäß WRRL (inkl. Grundwasserkörper-Teilgebiete) Stand: Nationaler Gewässerbewirtschaftungsplan 2009@de
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,_:t2279
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#contactPoint,_:t2300
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/conformsTo,_:t2283
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,http://inspire.ec.europa.eu/theme/am
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#distribution,_:t2289
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,_:t2270
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#distribution,_:t2297
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/provenance,_:t2282
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/language,http://publications.europa.eu/resource/authority/language/GER
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#theme,_:t2277
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/prov#qualifiedAttribution,_:t2301
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/type,http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://www.w3.org/ns/dcat#keyword,Tiefengrundwasser@de
+https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9,http://purl.org/dc/terms/title,"Grundwasserkörper, NGP 2009, Österreich@de"
