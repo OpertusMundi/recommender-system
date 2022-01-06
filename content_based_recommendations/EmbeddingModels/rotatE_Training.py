@@ -8,9 +8,7 @@ from scipy.spatial import distance
 import numpy as np
 import pykeen
 from pykeen.triples import TriplesFactory
-from typing import List
 from pykeen.pipeline import pipeline
-from sklearn.metrics.pairwise import cosine_similarity
 
 path = "../data/kg_triples.tsv"
 
@@ -56,24 +54,23 @@ plt.savefig('results/resultsRotatE/rotatE_losses.png', dpi=300)
 
 with open(save_location + 'triples_factory.pkl', 'wb') as f:
     pickle.dump(tf, f)
-#
-#
-# # Embeddings
-# entity_id_t = torch.as_tensor(tf.entity_ids)
-# relation_id_t = torch.as_tensor(tf.relation_ids)
-#
-# original_stdout = sys.stdout
-#
-# with open(save_location + 'entities_ids.txt', 'w') as f:
-#     sys.stdout = f  # Change the standard output to the file we created.
-#     print(tf.entity_to_id)
-#     sys.stdout = original_stdout  # Reset the standard output to its original value
-#
-#
-# original_stdout1 = sys.stdout
-#
-# with open(save_location + 'relation_ids.txt', 'w') as f:
-#     sys.stdout = f  # Change the standard output to the file we created.
-#     print(tf.relation_to_id)
-#     sys.stdout = original_stdout1  # Reset the standard output to its original value
+
+# Embeddings
+entity_id_t = torch.as_tensor(tf.entity_ids)
+relation_id_t = torch.as_tensor(tf.relation_ids)
+
+original_stdout = sys.stdout
+
+with open(save_location + 'entities_ids.txt', 'w') as f:
+    sys.stdout = f  # Change the standard output to the file we created.
+    print(tf.entity_to_id)
+    sys.stdout = original_stdout  # Reset the standard output to its original value
+
+
+original_stdout1 = sys.stdout
+
+with open(save_location + 'relation_ids.txt', 'w') as f:
+    sys.stdout = f  # Change the standard output to the file we created.
+    print(tf.relation_to_id)
+    sys.stdout = original_stdout1  # Reset the standard output to its original value
 
