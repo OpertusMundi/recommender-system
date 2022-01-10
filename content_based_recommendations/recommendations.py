@@ -26,12 +26,14 @@ def similarity(iri, model, number_of_recommendations=3):
     d = dict.fromkeys(all_datasets_ids)
     for i in range(len(all_datasets_ids)):
         embdding = entity_embeddings(torch.as_tensor(all_datasets_ids[i])).detach().numpy()
-        print("Is embedding complex(real and imaginary) in nature?", np.iscomplexobj(embdding))  # -> False
+        #print("Is embedding complex(real and imaginary) in nature?", np.iscomplexobj(embdding))  # -> False
         cos_sim = cosine_similarity(original.reshape(1, -1), embdding.reshape(1, -1))
         d[all_datasets_ids[i]] = cos_sim
     # print(d)
     recommended_ids = sorted(d, key=d.get, reverse=True)[:number_of_recommendations]
-    print(recommended_ids)
+    # print(recommended_ids.dtpye)
+    # print(recommended_ids)
+    print(*recommended_ids)
     return recommended_ids
 
 
@@ -45,6 +47,6 @@ def similarity(iri, model, number_of_recommendations=3):
 #     return IRI
 
 if __name__ == "__main__":
-    # dataset = "Grundwasserkörper, NGP 2009, Österreich"
-    iri = 'https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9'
-    similarity(iri, model='RotatE', number_of_recommendations=4)
+    # # dataset = "Grundwasserkörper, NGP 2009, Österreich"
+    # iri = 'https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9'
+    similarity(iri= 'https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9', model='RotatE', number_of_recommendations=4)

@@ -4,8 +4,8 @@ from pydantic import BaseModel
 from typing import List, Union, Dict
 from recommender import Recommender
 
-#TODO: put this somewhere accessible
-#TODO: enter service descriptions
+# TODO: put this somewhere accessible
+# TODO: enter service descriptions
 tags_metadata = [
     {
         "name": "Recommender System",
@@ -13,7 +13,7 @@ tags_metadata = [
     }
 ]
 
-#TODO: enter descriptions
+# TODO: enter descriptions
 app = FastAPI(
     title="OpertusMundi (top.io) Recommender System",
     description="",
@@ -21,6 +21,7 @@ app = FastAPI(
 )
 
 recommender = Recommender()
+
 
 @app.on_event("startup")
 async def startup_event():
@@ -37,6 +38,7 @@ async def recommend_popular_assets(n: int = 1):
     """
     result = recommender.recommend_popular_assets(number_of_recommendations=n)
     return {"asset_id": result}
+
 
 @app.get("/recommender/{asset_id}", tags=["Recommender System"])
 async def recommend_by_asset_id(asset_id: int = None, n: int = 1):
@@ -62,3 +64,16 @@ async def recommend_by_user_id(user_id: int = None, n: int = 1):
     """
     result = recommender.recommend_by_user_id(user_id=user_id, number_of_recommendations=n)
     return {"asset_id": result}
+
+
+@app.get("/recommender/{datasets}", tags=["Recommender System"])
+async def recommend_datasets_on_contents(n: int = 2):
+    """
+    **Description:** Get a list of top N similar datasets
+
+    **Parameters:**
+    - **n**: Number of datasets to be recommended, e.g., __5__
+    """
+    result = recommender.recommend_datasets_on_contents(number_of_recommendations=n)
+    return {"dataset_ids": result}
+
