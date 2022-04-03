@@ -9,8 +9,8 @@ import pykeen
 from pykeen.triples import TriplesFactory
 from pykeen.pipeline import pipeline
 
-path = "../data/kg_triples.tsv"
-
+# path = "../data/kg_triples.tsv"
+path = "../data_official/country.tsv"
 tf = TriplesFactory.from_path(path)
 
 training, testing, validation = tf.split([.8, .1, .1])
@@ -37,13 +37,13 @@ print("Trained model", modelTransH)
 
 # saving the model, results(losses, metrics, stopper, times) and metadata
 # save_location = 'recommender-system/contentbased_recommendersystem/results/resultsTransH/'  # this directory
-save_location = 'results/resultsTransH/'  # this directory
+save_location = 'results_official/resultsTransH/'  # this directory
 resultsTransH.save_to_directory(save_location)
 os.listdir(save_location)
 
 # plots
 resultsTransH.plot_losses()
-plt.savefig('results/resultsTransH/transH_losses.png', dpi=300)
+plt.savefig('results_official/resultsTransH/transH_losses.png', dpi=300)
 
 with open(save_location + 'triples_factory.pkl', 'wb') as f:
     pickle.dump(tf, f)

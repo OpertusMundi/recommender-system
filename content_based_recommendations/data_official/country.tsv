@@ -1,0 +1,435 @@
+http://www.gra.fo/schema/untitled-ekg#Kallikrates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#POI	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Athens
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://purl.org/dc/terms/title	Athens road network (WFS)
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/2000/01/rdf-schema#label	version
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Location
+http://www.gra.fo/schema/untitled-ekg#Αθήνα	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#scale	5000
+http://purl.org/dc/terms/description	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#email	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.w3.org/ns/dcat#DataService	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#parent	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#Openlicense	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/2000/01/rdf-schema#comment	An available distribution of the dataset
+http://www.gra.fo/schema/untitled-ekg#Viewservice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Municipalities
+http://purl.org/dc/terms/Standard	http://www.w3.org/2000/01/rdf-schema#comment	Description of the spatial and temporal reference systems used in the dataset
+http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Roadnetwork
+http://purl.org/dc/terms/description	http://www.w3.org/2000/01/rdf-schema#comment	An abstract of the resource
+http://www.w3.org/ns/dcat#accessURL	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Distribution
+http://www.w3.org/ns/dcat#Resource	http://www.w3.org/2000/01/rdf-schema#label	Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#ΠοταμοίΕλλάδος
+http://purl.org/dc/terms/identifier	http://www.w3.org/2000/01/rdf-schema#comment	An unambiguous reference to the resource within a given context
+http://purl.org/dc/terms/RightsStatement	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Corfu
+http://www.gra.fo/schema/untitled-ekg#Downloadservice	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#InlandWaters
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://purl.org/dc/terms/title	Athens Streets
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://purl.org/dc/terms/description	Fuel (gas) stations in Berlin, Germany
+http://www.gra.fo/schema/untitled-ekg#Population	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Keyword	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#Economy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Berlin
+http://purl.org/dc/terms/identifier	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#revision_date	2015-11-04
+http://www.gra.fo/schema/untitled-ekg#Publisher	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://purl.org/dc/terms/format	http://www.w3.org/2000/01/rdf-schema#label	format
+http://www.gra.fo/schema/untitled-ekg#Language	http://www.w3.org/2000/01/rdf-schema#comment	A language of the resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#creation_date	2019-10-23
+http://www.gra.fo/schema/untitled-ekg#InlandWaters	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	5000
+http://www.w3.org/ns/dcat#DataService	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#Downloadservice	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#DataService
+http://purl.org/dc/terms/conformsTo	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#email	http://www.w3.org/2000/01/rdf-schema#domain	http://www.gra.fo/schema/untitled-ekg#Publisher
+http://www.w3.org/ns/dcat#Resource	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Location
+http://purl.org/dc/terms/conformsTo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#Mapping	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.w3.org/2000/01/rdf-schema#range	http://www.gra.fo/schema/untitled-ekg#Topic
+http://purl.org/dc/terms/title	http://www.w3.org/2000/01/rdf-schema#comment	A name given to the resource
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.170.TABULAR	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Athens
+http://www.w3.org/ns/dcat#accessURL	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.gra.fo/schema/untitled-ekg#Navigation	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Hydrography
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://purl.org/dc/terms/identifier	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/2000/01/rdf-schema#label	spatial_resolution
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.181.TABULAR	http://purl.org/dc/terms/title	My Data
+http://www.gra.fo/schema/untitled-ekg#Hydrography	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Localgovernment
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.gra.fo/schema/untitled-ekg#creation_date	2021-11-10
+http://www.w3.org/ns/dcat#theme	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#Tabular	http://www.w3.org/2000/01/rdf-schema#label	Tabular
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.170.TABULAR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://purl.org/dc/terms/conformsTo	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://purl.org/dc/terms/publisher	http://www.w3.org/2000/01/rdf-schema#label	publisher
+http://www.gra.fo/schema/untitled-ekg#Greece	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Kallikrates
+http://www.gra.fo/schema/untitled-ekg#Discoveryservice	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#Berlin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Roadnetwork
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://purl.org/dc/terms/description	Points of Interest on Corfu Island extracted from OpenStreetMap
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/2000/01/rdf-schema#comment	The spatial extent of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant
+http://www.gra.fo/schema/untitled-ekg#Raster	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#POI
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#Transformationservice	http://www.w3.org/2000/01/rdf-schema#label	TransformationService
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Economy
+http://www.w3.org/ns/dcat#theme	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#name	http://www.w3.org/2000/01/rdf-schema#label	name
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Population
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://purl.org/dc/terms/title	Fuel stations in Beriln (WMS)
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Καλλικράτης
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Localgovernment
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/2000/01/rdf-schema#comment	A point or period of time associated with the creation event in the lifecycle of the resource
+http://purl.org/dc/terms/language	http://www.w3.org/2000/01/rdf-schema#range	http://www.gra.fo/schema/untitled-ekg#Language
+http://purl.org/dc/terms/Standard	http://www.w3.org/2000/01/rdf-schema#label	ReferenceSystem
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.170.TABULAR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.w3.org/ns/dcat#Resource	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#Fuelstations	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	2.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#creation_date	2015-08-16
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Watermanagement
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#revision_date	2021-02-09
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#POI
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://purl.org/dc/terms/publisher	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://purl.org/dc/terms/description	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.w3.org/ns/dcat#accessURL	http://www.w3.org/2000/01/rdf-schema#label	acess_URL
+http://purl.org/dc/terms/title	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	10000
+http://www.gra.fo/schema/untitled-ekg#Vector	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#creation_date	2019-10-23
+http://www.w3.org/ns/dcat#Dataset	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Municipalities
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/2000/01/rdf-schema#comment	A point or period of time associated with the publication event in the lifecycle of the resource
+http://www.gra.fo/schema/untitled-ekg#Tabular	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#scale	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Αθήνα
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Athens
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Rivernetwork
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	5000
+http://www.gra.fo/schema/untitled-ekg#Topic	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://purl.org/dc/terms/format	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#de	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Language
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Boundaries
+http://purl.org/dc/terms/publisher	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.w3.org/ns/dcat#Distribution	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#Tourism	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.w3.org/ns/dcat#theme	http://www.w3.org/2000/01/rdf-schema#range	http://www.gra.fo/schema/untitled-ekg#Topic
+http://purl.org/dc/terms/description	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#Discoveryservice	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#DataService
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Fuelstations
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Localgovernment
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Statistics
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Κέρκυρα
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#Downloadservice	http://www.w3.org/2000/01/rdf-schema#label	DownloadService
+http://www.gra.fo/schema/untitled-ekg#Openlicense	http://www.w3.org/2000/01/rdf-schema#label	OpenLicense
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Roadnetwork
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Germany
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Hydrography
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#Transformationservice	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://purl.org/dc/terms/title	Municipalities in Greece (WMS)
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Demographics
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.w3.org/ns/dcat#Dataset	http://www.w3.org/2000/01/rdf-schema#label	Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#Cartography	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	3.1
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://purl.org/dc/terms/description	Rivers and streams in Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Fuelstations
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#revision_date	2015-11-04
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Mapping
+http://www.gra.fo/schema/untitled-ekg#Vector	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Demographics
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	20000
+http://www.gra.fo/schema/untitled-ekg#Tabular	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#PointsofInterest
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Rivers
+http://purl.org/dc/terms/publisher	http://www.w3.org/2000/01/rdf-schema#range	http://www.gra.fo/schema/untitled-ekg#Publisher
+http://www.gra.fo/schema/untitled-ekg#Transformationservice	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#DataService
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#scale	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#long
+http://www.gra.fo/schema/untitled-ekg#Localgovernment	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://purl.org/dc/terms/publisher	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://purl.org/dc/terms/description	Road network in Athens, Greece
+http://www.gra.fo/schema/untitled-ekg#Statistics	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.170.TABULAR	http://purl.org/dc/terms/title	test1
+http://www.gra.fo/schema/untitled-ekg#el	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Language
+http://purl.org/dc/terms/format	http://www.w3.org/2000/01/rdf-schema#comment	The file format, physical medium, or dimensions of the resource
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#PointsofInterest	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.w3.org/ns/dcat#Dataset	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://purl.org/dc/terms/language	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.181.TABULAR	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://purl.org/dc/terms/description	Administrative boundaries of municipalities in Greece according to Kallikrates project.
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#statistics
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#scale	50000
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Καλλικράτης
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#de
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Αθήνα
+http://www.gra.fo/schema/untitled-ekg#Streets	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/2000/01/rdf-schema#comment	Version of the resource
+http://www.gra.fo/schema/untitled-ekg#Municipalities	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Location
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.181.TABULAR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://purl.org/dc/terms/title	Athens road network
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Transportation
+http://www.gra.fo/schema/untitled-ekg#email	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://purl.org/dc/terms/title	River network in Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Municipalities
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Transportation
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.w3.org/ns/dcat#theme	http://www.w3.org/2000/01/rdf-schema#label	topic
+http://www.gra.fo/schema/untitled-ekg#Transportation	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#Discoveryservice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://purl.org/dc/terms/title	World population per country
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	2.0
+http://purl.org/dc/terms/license	http://www.w3.org/2000/01/rdf-schema#comment	Information about resource licensing
+http://www.gra.fo/schema/untitled-ekg#Raster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://purl.org/dc/terms/description	Fuel (gas) stations in Berlin, Germany
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#comment	The topic of the resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://purl.org/dc/terms/description	Administrative boundaries of municipalities in Greece according to Kallikrates project.
+http://www.gra.fo/schema/untitled-ekg#Urbandevelopment	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Gasstations
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://purl.org/dc/terms/RightsStatement	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#revision_date	2021-02-09
+http://www.gra.fo/schema/untitled-ekg#Downloadservice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#revision_date	http://www.w3.org/2000/01/rdf-schema#comment	A point or period of time associated with the revision event in the lifecycle of the resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.181.TABULAR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#scale	http://www.w3.org/2000/01/rdf-schema#label	scale
+http://www.gra.fo/schema/untitled-ekg#Germany	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Hydrology	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Localgovernment
+http://www.gra.fo/schema/untitled-ekg#Gasstations	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Boundaries	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://purl.org/dc/terms/format	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#name	http://www.w3.org/2000/01/rdf-schema#domain	http://www.gra.fo/schema/untitled-ekg#Publisher
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#dateTime
+http://www.gra.fo/schema/untitled-ekg#Keyword	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.170.TABULAR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Economy
+http://www.gra.fo/schema/untitled-ekg#revision_date	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#parent	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://purl.org/dc/terms/license	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://purl.org/dc/terms/title	Corfu POIs
+http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.w3.org/2000/01/rdf-schema#label	suitable_for
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://purl.org/dc/terms/description	Road network in the municipality of Athens, Greece
+http://purl.org/dc/terms/language	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#Publisher	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#Demographics	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Kallikrates
+http://www.gra.fo/schema/untitled-ekg#parent	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#name	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#dateTime
+http://www.gra.fo/schema/untitled-ekg#email	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://purl.org/dc/terms/identifier	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.gra.fo/schema/untitled-ekg#scale	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#Rivers	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://purl.org/dc/terms/title	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#revision_date	2015-11-04
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Streets
+http://www.gra.fo/schema/untitled-ekg#creation_date	http://www.w3.org/2000/01/rdf-schema#label	creation_date
+http://purl.org/dc/terms/title	http://www.w3.org/2000/01/rdf-schema#label	title
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Hydrography
+http://www.w3.org/ns/dcat#DataService	http://www.w3.org/2000/01/rdf-schema#label	DataService
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#range	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Discoveryservice	http://www.w3.org/2000/01/rdf-schema#label	DiscoveryService
+http://www.gra.fo/schema/untitled-ekg#parent	http://www.w3.org/2000/01/rdf-schema#label	parent
+http://purl.org/dc/terms/RightsStatement	http://www.w3.org/2000/01/rdf-schema#label	License
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Berlin
+http://www.w3.org/ns/dcat#Dataset	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#parent	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#Language	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#Topic	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://purl.org/dc/terms/description	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.gra.fo/schema/untitled-ekg	http://www.w3.org/2000/01/rdf-schema#label	topio-dcat
+http://www.w3.org/ns/dcat#Distribution	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://purl.org/dc/terms/format	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Distribution
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Transportation
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Καλλικράτης
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#label	keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Routing
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://purl.org/dc/terms/title	Fuel stations in Beriln [Draft]
+http://www.gra.fo/schema/untitled-ekg#Vector	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#Viewservice	http://www.w3.org/2000/01/rdf-schema#label	ViewService
+http://purl.org/dc/terms/title	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.w3.org/ns/dcat#spatialResolutionInMeters	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Dataset
+http://www.w3.org/ns/dcat#theme	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#Location	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#Viewservice	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#Athens	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Transformationservice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#Roads	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#InlandWaters
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#POI
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://purl.org/dc/terms/description	Municipality boundaries in Greece according to Kallikrates project
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Kallikrates
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.gra.fo/schema/untitled-ekg#creation_date	2021-11-10
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#Rivernetwork	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#Language	http://www.w3.org/2000/01/rdf-schema#label	Language
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.176.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.gra.fo/schema/untitled-ekg#Καλλικράτης	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.w3.org/ns/dcat#Distribution	http://www.w3.org/2000/01/rdf-schema#label	Distribution
+http://www.gra.fo/schema/untitled-ekg#Hydrography	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#revision_date	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Routing
+http://www.gra.fo/schema/untitled-ekg#Language	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://purl.org/dc/terms/license	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#UnitedNations	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg	http://www.w3.org/2000/01/rdf-schema#comment	
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#ObjectProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://purl.org/dc/terms/format	CSV
+http://www.gra.fo/schema/untitled-ekg#ΠοταμοίΕλλάδος	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#statistics	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://purl.org/dc/terms/title	Municipalities in Greece
+http://www.gra.fo/schema/untitled-ekg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Ontology
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#UnitedNations
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.171.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Streets
+http://www.gra.fo/schema/untitled-ekg#Vector	http://www.w3.org/2000/01/rdf-schema#label	Vector
+http://www.gra.fo/schema/untitled-ekg#Watermanagement	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://purl.org/dc/terms/language	http://www.w3.org/2000/01/rdf-schema#label	language
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://purl.org/dc/terms/description	Road network in the municipality of Athens, Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	2.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Germany
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#Roadnetwork	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://www.gra.fo/schema/untitled-ekg#revision_date	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://purl.org/dc/terms/identifier	http://www.w3.org/2000/01/rdf-schema#label	identifier
+http://purl.org/dc/terms/license	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#Openlicense	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Hydrology
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.gra.fo/schema/untitled-ekg#scale	10000
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Rivernetwork
+http://purl.org/dc/terms/license	http://www.w3.org/2000/01/rdf-schema#range	http://purl.org/dc/terms/RightsStatement
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	50000
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://purl.org/dc/terms/format	ESRI Shapefile
+http://www.gra.fo/schema/untitled-ekg#Publisher	http://www.w3.org/2000/01/rdf-schema#label	Publisher
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://purl.org/dc/terms/conformsTo	http://www.w3.org/2000/01/rdf-schema#label	conforms_to
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Mapping
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Navigation
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Watermanagement
+http://www.gra.fo/schema/untitled-ekg#name	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.w3.org/ns/dcat#accessURL	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#Viewservice	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#DataService
+http://purl.org/dc/terms/Standard	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://purl.org/dc/terms/RightsStatement	http://www.w3.org/2000/01/rdf-schema#comment	"Information about resource licensing. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights."
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://purl.org/dc/terms/description	River network in Greece
+http://purl.org/dc/terms/format	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://purl.org/dc/terms/Standard	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Urbandevelopment
+http://www.w3.org/ns/dcat#accessURL	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#Raster	http://www.w3.org/2000/01/rdf-schema#label	Raster
+http://www.w3.org/ns/dcat#DataService	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://purl.org/dc/terms/language	http://www.w3.org/2000/01/rdf-schema#domain	http://www.w3.org/ns/dcat#Resource
+http://www.gra.fo/schema/untitled-ekg#Κέρκυρα	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword
+http://purl.org/dc/terms/conformsTo	http://www.w3.org/2000/01/rdf-schema#range	http://purl.org/dc/terms/Standard
+http://purl.org/dc/terms/license	http://www.w3.org/2000/01/rdf-schema#label	license
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Tourism
+http://www.gra.fo/schema/untitled-ekg#Tabular	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Class
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	20000
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Boundaries
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.0
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Rivers
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.177.VECTOR	https://w3c.github.io/dxwg/dcat/#Property:resource_version	1.1
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	50000
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/2000/01/rdf-schema#label	distribution
+http://www.w3.org/ns/dcat#distribution	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/ns/dcat#Distribution
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Greece
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Roads
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.182.VECTOR	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#de
+http://www.gra.fo/schema/untitled-ekg#Routing	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Topic
+http://www.gra.fo/schema/untitled-ekg#email	http://www.w3.org/2000/01/rdf-schema#label	email
+http://www.gra.fo/schema/untitled-ekg#Keyword	http://www.w3.org/2000/01/rdf-schema#label	Keyword
+http://www.gra.fo/schema/untitled-ekg#revision_date	http://www.w3.org/2000/01/rdf-schema#label	revision_date
+https://w3c.github.io/dxwg/dcat/#Property:resource_version	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://www.gra.fo/schema/untitled-ekg#release_date	http://www.w3.org/2000/01/rdf-schema#label	release_date
+http://www.gra.fo/schema/untitled-ekg#Topic	http://www.w3.org/2000/01/rdf-schema#label	Topic
+http://purl.org/dc/terms/description	http://www.w3.org/2000/01/rdf-schema#label	abstract
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Mapping
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Cartography
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.gra.fo/schema/untitled-ekg#Demographics
+http://www.gra.fo/schema/untitled-ekg#Openlicense	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://purl.org/dc/terms/RightsStatement
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Streets
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.174.SERVICE	http://purl.org/dc/terms/language	http://www.gra.fo/schema/untitled-ekg#el
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.178.SERVICE	http://www.w3.org/ns/dcat#keyword	http://www.gra.fo/schema/untitled-ekg#Gasstations
+http://www.w3.org/ns/dcat#keyword	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#Raster	http://www.w3.org/2000/01/rdf-schema#subClassOf	http://www.w3.org/ns/dcat#Dataset
+http://www.gra.fo/schema/untitled-ekg#name	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.169.VECTOR	http://purl.org/dc/terms/title	Municipalities in Greece
+http://www.gra.fo/schema/untitled-ekg#scale	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.175.SERVICE	http://www.w3.org/ns/dcat#theme	http://www.gra.fo/schema/untitled-ekg#Boundaries
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.180.TABULAR	http://purl.org/dc/terms/description	World population per country according to the United Nations
+http://purl.org/dc/terms/identifier	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.172.VECTOR	http://purl.org/dc/terms/title	River network in Greece
+http://www.gra.fo/schema/untitled-ekg#suitable_for	http://www.w3.org/2000/01/rdf-schema#isDefinedBy	http://www.gra.fo/schema/untitled-ekg
+http://www.gra.fo/schema/untitled-ekg#topio.another-company.179.VECTOR	http://www.gra.fo/schema/untitled-ekg#scale	10000
+http://www.gra.fo/schema/untitled-ekg#Corfu	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.gra.fo/schema/untitled-ekg#Keyword

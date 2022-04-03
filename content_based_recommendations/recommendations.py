@@ -1,15 +1,13 @@
 import ast
-import numpy as np
-import pandas as pd
 import torch
 from sklearn.metrics.pairwise import cosine_similarity
 
 
 def similarity(iri, model, number_of_recommendations=3):
     if model == 'RotatE':
-        path = "EmbeddingModels/results/resultsRotatE/"
+        path = "EmbeddingModels/results_official/resultsRotatE/"
     elif model == 'TransH':
-        path = "EmbeddingModels/results/resultsTransH/"
+        path = "EmbeddingModels/results_official/resultsTransH/"
     # IRI = extractIRI(dataset)   # remove this
 
     entity_ids = open(path + "entities_ids.txt", "r")
@@ -18,7 +16,7 @@ def similarity(iri, model, number_of_recommendations=3):
     id = entity[iri]
 
     # ToDO : Softcode these values
-    all_datasets_ids = [3392, 3403, 3407, 3405, 3388, 3390, 3386, 3512, 3510, 3508, 3176, 3172, 3171, 974]
+    all_datasets_ids = [144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157]
 
     model = torch.load(path + 'trained_model.pkl')
     entity_embeddings = model.entity_representations[0]
@@ -26,11 +24,11 @@ def similarity(iri, model, number_of_recommendations=3):
     d = dict.fromkeys(all_datasets_ids)
     for i in range(len(all_datasets_ids)):
         embdding = entity_embeddings(torch.as_tensor(all_datasets_ids[i])).detach().numpy()
-        #print("Is embedding complex(real and imaginary) in nature?", np.iscomplexobj(embdding))  # -> False
+        # print("Is embedding complex(real and imaginary) in nature?", np.iscomplexobj(embdding))  # -> False
         cos_sim = cosine_similarity(original.reshape(1, -1), embdding.reshape(1, -1))
         d[all_datasets_ids[i]] = cos_sim
     # print(d)
-    recommended_ids = sorted(d, key=d.get, reverse=True)[:number_of_recommendations]
+    recommended_ids = sorted(d, key=d.get, reverse=True)[1:number_of_recommendations+1]
     # print(recommended_ids.dtpye)
     # print(recommended_ids)
     print(*recommended_ids)
@@ -49,4 +47,6 @@ def similarity(iri, model, number_of_recommendations=3):
 if __name__ == "__main__":
     # # dataset = "Grundwasserkörper, NGP 2009, Österreich"
     # iri = 'https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9'
-    similarity(iri= 'https://data.inspire.gv.at/e76c1db4-69ee-4252-aa0e-c7a65cf069f9', model='RotatE', number_of_recommendations=4)
+    similarity(iri='http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR', model='RotatE',
+               number_of_recommendations=4)
+

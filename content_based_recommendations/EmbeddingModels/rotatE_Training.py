@@ -10,7 +10,8 @@ import pykeen
 from pykeen.triples import TriplesFactory
 from pykeen.pipeline import pipeline
 
-path = "../data/kg_triples.tsv"
+# path = "../data/kg_triples.tsv"
+path = "../data_official/country.tsv"
 
 tf = TriplesFactory.from_path(path)
 
@@ -37,7 +38,7 @@ modelRotatE = resultsRotatE.model
 print("Trained model", modelRotatE)
 
 # # saving the model, results(losses, metrics, stopper, times) and metadata
-save_location = 'results/resultsRotatE/'  # this directory
+save_location = 'results_official/resultsRotatE/'  # this directory
 resultsRotatE.save_to_directory(save_location)
 os.listdir(save_location)
 
@@ -50,7 +51,7 @@ os.listdir(save_location)
 
 #plots
 resultsRotatE.plot_losses()
-plt.savefig('results/resultsRotatE/rotatE_losses.png', dpi=300)
+plt.savefig('results_official/resultsRotatE/rotatE_losses.png', dpi=300)
 
 with open(save_location + 'triples_factory.pkl', 'wb') as f:
     pickle.dump(tf, f)
