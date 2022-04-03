@@ -5,7 +5,6 @@ from sklearn.metrics.pairwise import pairwise_distances
 from content_based_recommendations.recommendations import similarity
 
 
-
 class Recommender:
     """
     Helper class for calculating predictions for recommending assets
@@ -87,5 +86,11 @@ class Recommender:
         return self.popular_assets[:number_of_recommendations]
 
     def recommend_datasets_on_contents(self, number_of_recommendations=1):
-        return similarity(number_of_recommendations=number_of_recommendations)
+        return(similarity(number_of_recommendations=number_of_recommendations))
 
+if __name__ == "__main__":
+    recommender = Recommender()
+    result = recommender.recommend_by_user_id(user_id=5, number_of_recommendations=4)
+    print(result)
+    result2 = recommender.recommend_datasets_on_contents(number_of_recommendations=4)
+    print(result2)

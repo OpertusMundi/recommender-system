@@ -3,11 +3,17 @@ import torch
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-def similarity(iri, model, number_of_recommendations=3):
+def get_key(val, dict):
+    for key, value in dict.items():
+        if val == value:
+            return key
+    return "key doesn't exist"
+
+def similarity(iri='http://www.gra.fo/schema/untitled-ekg#topio.another-company.183.VECTOR', model='RotatE', number_of_recommendations=3):
     if model == 'RotatE':
-        path = "EmbeddingModels/results_official/resultsRotatE/"
+        path = "content_based_recommendations/EmbeddingModels/results_official/resultsRotatE/"
     elif model == 'TransH':
-        path = "EmbeddingModels/results_official/resultsTransH/"
+        path = "content_based_recommendations/EmbeddingModels/results_official/resultsTransH/"
     # IRI = extractIRI(dataset)   # remove this
 
     entity_ids = open(path + "entities_ids.txt", "r")
@@ -29,9 +35,14 @@ def similarity(iri, model, number_of_recommendations=3):
         d[all_datasets_ids[i]] = cos_sim
     # print(d)
     recommended_ids = sorted(d, key=d.get, reverse=True)[1:number_of_recommendations+1]
-    # print(recommended_ids.dtpye)
-    # print(recommended_ids)
-    print(*recommended_ids)
+
+    recommended_iris = []
+    for i in range(len(recommended_ids)):
+        id = recommended_ids[i]
+        iri = get_key(id, entity)
+        recommended_iris.append(iri)
+
+    # return recommended_iris
     return recommended_ids
 
 
