@@ -91,6 +91,6 @@ class Recommender:
 if __name__ == "__main__":
     recommender = Recommender()
     result = recommender.recommend_by_user_id(user_id=5, number_of_recommendations=4)
-    print(result)
+    print("result ", result)
     result2 = recommender.recommend_datasets_on_contents(number_of_recommendations=4)
-    print(result2)
+    print("result2 " , result2)

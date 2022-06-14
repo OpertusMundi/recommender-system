@@ -66,7 +66,7 @@ async def recommend_by_user_id(user_id: int = None, n: int = 1):
     return {"asset_id": result}
 
 
-@app.get("/recommender/{datasets}", tags=["Recommender System"])
+@app.get("/recommender/datasets", tags=["Recommender System"])
 async def recommend_datasets_on_contents(n: int = 2):
     """
     **Description:** Get a list of top N similar datasets
