@@ -1,8 +1,8 @@
+import torch
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import pairwise_distances
-
-from content_based_recommendations.recommendations import similarity
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 class Recommender:
@@ -14,6 +14,7 @@ class Recommender:
         self.assets = None
         self.users = None
         self.ratings = None
+
         self.user_prediction = None
         self.asset_prediction = None
         self.popular_assets = None
@@ -85,12 +86,46 @@ class Recommender:
     def recommend_popular_assets(self, number_of_recommendations=1):
         return self.popular_assets[:number_of_recommendations]
 
-    def recommend_datasets_on_contents(self, number_of_recommendations=1):
-        return(similarity(number_of_recommendations=number_of_recommendations))
+
+class Recommender_contents():
+    def __init__(self):
+        self.datasets = None
+        self.load_data()
+
+    def load_data(self):
+        # Reading datsets file:
+        self.datasets = pd.read_csv('data/datasets.csv', sep=',', encoding='utf-8')
+
+    def similarity_contents(self, dataset_id=144, model='RotatE', number_of_recommendations=3):
+        if model == 'RotatE':
+            path = "content_based_recommendations/EmbeddingModels/results_official/resultsRotatE/"
+        elif model == 'TransH':
+            path = "content_based_recommendations/EmbeddingModels/results_official/resultsTransH/"
+
+        all_datasets_ids = self.datasets.dataset_id
+        path = path + "trained_model.pkl"
+        model = torch.load(path)
+        entity_embeddings = model.entity_representations[0]
+        original = entity_embeddings(torch.as_tensor(dataset_id)).detach().numpy()
+        d = dict.fromkeys(all_datasets_ids)
+        for i in range(len(all_datasets_ids)):
+            embdding = entity_embeddings(torch.as_tensor(all_datasets_ids[i])).detach().numpy()
+            # print("Is embedding complex(real and imaginary) in nature?", np.iscomplexobj(embdding))  # -> False
+            cos_sim = cosine_similarity(original.reshape(1, -1), embdding.reshape(1, -1))
+            d[all_datasets_ids[i]] = cos_sim
+
+        recommended_ids = sorted(d, key=d.get, reverse=True)[1:number_of_recommendations + 1]
+        return recommended_ids
+
+    def recommend_datasets_on_contents(self, dataset_id, model ,number_of_recommendations=1):
+        n = number_of_recommendations * -1
+        return self.similarity_contents(dataset_id, model, number_of_recommendations=number_of_recommendations)
+
 
 if __name__ == "__main__":
     recommender = Recommender()
+    recommender_contents = Recommender_contents()
     result = recommender.recommend_by_user_id(user_id=5, number_of_recommendations=4)
     print("result ", result)
-    result2 = recommender.recommend_datasets_on_contents(number_of_recommendations=4)
-    print("result2 " , result2)
+    result2 = recommender_contents.recommend_datasets_on_contents(dataset_id=144, number_of_recommendations=4)
+    print("result2 ", result2)

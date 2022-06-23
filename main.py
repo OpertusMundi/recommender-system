@@ -2,7 +2,7 @@ from fastapi import FastAPI, Query
 from fastapi.logger import logger
 from pydantic import BaseModel
 from typing import List, Union, Dict
-from recommender import Recommender
+from recommender import Recommender, Recommender_contents
 
 # TODO: put this somewhere accessible
 # TODO: enter service descriptions
@@ -21,6 +21,7 @@ app = FastAPI(
 )
 
 recommender = Recommender()
+recommender_contents = Recommender_contents()
 
 
 @app.on_event("startup")
@@ -66,14 +67,16 @@ async def recommend_by_user_id(user_id: int = None, n: int = 1):
     return {"asset_id": result}
 
 
-@app.get("/recommender/datasets", tags=["Recommender System"])
-async def recommend_datasets_on_contents(n: int = 2):
+@app.get("/recommender_contents/datasets", tags=["Recommender System"])
+async def recommend_datasets_on_contents(dataset_id: int = 144, model: str = "RotatE", n: int = 2):
     """
     **Description:** Get a list of top N similar datasets
 
     **Parameters:**
+    - **dataset_id**: ID of the dataset, e.g., __144__
+    - **model**: Name of the embedding model, e.g., __RotatE__ , __TransH__
     - **n**: Number of datasets to be recommended, e.g., __5__
     """
-    result = recommender.recommend_datasets_on_contents(number_of_recommendations=n)
-    return {"dataset_ids": result}
-
+    result = recommender_contents.recommend_datasets_on_contents(dataset_id=dataset_id, model=model,
+                                                                 number_of_recommendations=n)
+    return {"dataset_id": result}
