@@ -94,7 +94,7 @@ class Recommender_contents():
 
     def load_data(self):
         # Reading datsets file:
-        self.datasets = pd.read_csv('data/datasets.csv', sep=',', encoding='utf-8')
+        self.datasets = pd.read_csv('content_based_recommendations/data_official/datasets.csv', sep=',', encoding='utf-8')
 
     def similarity_contents(self, dataset_id=144, model='RotatE', number_of_recommendations=3):
         if model == 'RotatE':
